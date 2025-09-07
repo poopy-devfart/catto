@@ -1,6 +1,6 @@
 {
-    "name": "Neon Bunny Dark Duo",
-    "description": "Dark neon theme with dual-tone backgrounds for a soft gradient effect.",
+    "name": "Neon Bunny Dark Duo - Advanced",
+    "description": "Full dark neon Revenge theme with dual-tone backgrounds, glowing accents, hover states, and transparent overlays.",
     "authors": [
         {
             "name": "ChatGPT"
@@ -22,6 +22,10 @@
         "BACKGROUND_ACCENT": [
             "#FF4F9F",
             "#FF85C1"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0A0F1FE0",
+            "#12182AE0"
         ],
         "TEXT_PRIMARY": [
             "#FFFFFF",
@@ -50,6 +54,54 @@
         "STATUS_DANGER": [
             "#FF4F5E",
             "#FF4F5E"
+        ],
+        "BUTTON_PRIMARY_BACKGROUND": [
+            "#FF4F9F",
+            "#FF85C1"
+        ],
+        "BUTTON_PRIMARY_BACKGROUND_HOVER": [
+            "#FF85C1",
+            "#FF4F9F"
+        ],
+        "BUTTON_PRIMARY_TEXT": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "BUTTON_SECONDARY_BACKGROUND": [
+            "#1B2238",
+            "#12182A"
+        ],
+        "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+            "#252C45",
+            "#1B2238"
+        ],
+        "BUTTON_SECONDARY_TEXT": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "MENTION_BACKGROUND": [
+            "#FF4F9F40",
+            "#FF85C140"
+        ],
+        "MENTION_TEXT": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "CHANNEL_SELECTED_BACKGROUND": [
+            "#12182A",
+            "#1B2238"
+        ],
+        "CHANNEL_SELECTED_TEXT": [
+            "#FF4F9F",
+            "#FF85C1"
+        ],
+        "BORDER_COLOR": [
+            "#FF4F9F",
+            "#FF85C1"
+        ],
+        "SHADOW_COLOR": [
+            "#00000080",
+            "#00000080"
         ]
     },
     "rawColors": {
@@ -62,7 +114,9 @@
         "MUTED": "#A0A6B6",
         "GREEN": "#4FFF8F",
         "YELLOW": "#FFD34F",
-        "RED": "#FF4F5E"
+        "RED": "#FF4F5E",
+        "BORDER": "#FF4F9F",
+        "SHADOW": "#00000080"
     },
     "spec": 2
 }
